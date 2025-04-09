@@ -1,0 +1,16 @@
+{
+  "name": "aprendendo_dev",
+  "version": "1.0.0",
+  "description": "refazendo para aprender",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "will",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
